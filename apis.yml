@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://crossuniverse.psychpsyo.com/apiDocs.html
 common:
+  - type: DomainSecurity
+    url: security/cross-universe-domain-security.yml
   - type: Website
     url: https://crossuniverse.psychpsyo.com/apiDocs.html
   - type: PublicAPIsListing
