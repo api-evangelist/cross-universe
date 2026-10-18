@@ -42,7 +42,8 @@ apis:
   - name: Cross Universe
     description: "Cross Universe Card Data"
     humanURL: https://crossuniverse.psychpsyo.com/apiDocs.html
-    tags:
+    tags: []
+    tags_raw:
       - Games And Comics
     properties:
       - type: Documentation
